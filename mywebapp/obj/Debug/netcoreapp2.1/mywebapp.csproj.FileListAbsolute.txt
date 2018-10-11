@@ -1,0 +1,14 @@
+D:\consoleApp\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.deps.json
+D:\consoleApp\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.runtimeconfig.json
+D:\consoleApp\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.runtimeconfig.dev.json
+D:\consoleApp\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.dll
+D:\consoleApp\mywebapp\bin\Debug\netcoreapp2.1\mywebapp.pdb
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.csprojAssemblyReference.cache
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.csproj.CoreCompileInputs.cache
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorAssemblyInfo.cache
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorAssemblyInfo.cs
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.AssemblyInfoInputs.cache
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.AssemblyInfo.cs
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.RazorTargetAssemblyInfo.cache
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.dll
+D:\consoleApp\mywebapp\obj\Debug\netcoreapp2.1\mywebapp.pdb
